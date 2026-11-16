@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Live Demo & Links
-- **Portfolio Live Link (GitHub Pages):** `https://<your-username>.github.io/<Name_RollNo_Portfolio>/`
+- **Portfolio Live Link (GitHub Pages):** `https://dhruv-1337.github.io/Dhruv_Vala_268480_Portfolio/`
 - **Featured Project Prototype (TiffinMitra):** [https://tiffinmitraprototype.vercel.app](https://tiffinmitraprototype.vercel.app)
 - **Design Inspiration:** [Figma Community - Portfolio Website Design](https://www.figma.com/community/file/1319634075055654983/portfolio-website-design)
 
